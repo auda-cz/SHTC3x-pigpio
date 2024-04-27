@@ -21,5 +21,5 @@ int main() {
 }
 ```
 ## License
-This project is licensed under the MIT License
+This project is released under GNU GPL-3.
 
